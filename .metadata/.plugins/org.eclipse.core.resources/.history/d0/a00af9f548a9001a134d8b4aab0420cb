@@ -19,13 +19,4 @@
   	<url-pattern>/date</url-pattern>
   </servlet-mapping>
   
-  <servlet>
-  	<servlet-name>MyJdbcServlet</servlet-name>
-  	<servlet-class>com.jspiders.webapp.first.MyJdbcServlet</servlet-class>
-  </servlet>
-  <servlet-mapping>
-  	<servlet-name>MyJdbcServlet</servlet-name>
-  	<url-pattern>/jdbcServlet</url-pattern>
-  </servlet-mapping>
-  
 </web-app>
